@@ -11,6 +11,8 @@ This program generates secure passwords based on user preferences and checks if 
 - Checks if a password has been compromised using the "Have I Been Pwned" API.
 - Provides a user-friendly menu for easy interaction.
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/king101-bit/Password-Gen/blob/master/LICENSE)
+
 ## Getting Started
 
 ### Prerequisites
